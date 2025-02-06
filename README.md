@@ -28,7 +28,7 @@ The application employs a modular design with various chains and components work
 
 Below is a visual representation of the architecture:
 
-![Architecture Diagram](C:\Users\tarun\OneDrive\Desktop\Datakrew_Assignment\Architecture.jpg)
+![Architecture Diagram](https://github.com/Tarun11112003/Mysql_Database_Chatbot/blob/main/Architecture.jpg)
 
 ## AI Tools and Agents
 
