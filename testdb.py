@@ -23,7 +23,7 @@
 # mydb = mysql.connector.connect(
 #     host="localhost",
 #     user="root",
-#     password="Pass@iitgoa1",
+#     password="",
 #     database="newname"
 # )
 # mycursor = mydb.cursor()
